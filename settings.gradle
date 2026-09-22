@@ -1,0 +1,6 @@
+rootProject.name = 'hexagonal-demo'
+
+include 'domain'
+include 'persistence'
+include 'web'
+include 'application'
